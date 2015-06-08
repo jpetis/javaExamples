@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.jpetis.evaluacion.preimera;
+package com.jpetis.evaluacion.primera;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;

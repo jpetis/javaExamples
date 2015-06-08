@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.jpetis.evaluacion.preimera;
+package com.jpetis.evaluacion.primera;
 
 /**
  * @author Jaime Gpetis
